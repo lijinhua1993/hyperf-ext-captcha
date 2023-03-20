@@ -26,7 +26,7 @@
         "hyperf/di": "3.0.*",
         "hyperf/framework": "3.0.*",
         "hyperf/validation": "^3.0",
-        "lijinhua/hyperf-encryption": "^1.0"
+        "lijinhua/hyperf-ext-encryption": "^1.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.0",
