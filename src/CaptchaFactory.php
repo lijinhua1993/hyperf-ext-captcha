@@ -5,10 +5,10 @@ declare(strict_types=1);
 namespace Lijinhua\HyperfExtCaptcha;
 
 use Hyperf\Contract\ConfigInterface;
-use HyperfExt\Encryption\Crypt;
 use Imagick;
 use ImagickDraw;
 use ImagickPixel;
+use Lijinhua\HyperfExtEncryption\Crypt;
 use Psr\SimpleCache\CacheInterface;
 use Throwable;
 
